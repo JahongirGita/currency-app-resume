@@ -32,7 +32,7 @@ Dio: Fetch currency rates from APIs.
 
 🎥 App Preview
 
-<img src="videos/currency.gif" width="200" alt="Demo GIF" />
+<img src="images/currency.gif" width="200" alt="Demo GIF" />
 
 
 # 🚀 Running the Project

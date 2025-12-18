@@ -31,7 +31,8 @@ Dio: Fetch currency rates from APIs.
 </p>
 
 🎥 App Preview
-<p float="left"> <img src="images/currency_home.png" width="150"/> <img src="images/currency_converter.png" width="150"/> <img src="images/currency_favorites.png" width="150"/> </p>
+
+<img src="videos/currency.gif" width="200" alt="Demo GIF" />
 
 
 # 🚀 Running the Project

@@ -23,11 +23,11 @@ Dio: Fetch currency rates from APIs.
 
 #
 <p float="left">
-  <img src="images/Screenshot_20251218-112947.jpg" width="150"/>
-  <img src="images/Screenshot_20251218-112955.jpg" width="150"/>
-  <img src="images/Screenshot_20251218-113001.jpg" width="150"/>
-  <img src="images/Screenshot_20251218-113011.jpg" width="150"/>
-  <img src="images/Screenshot_20251218-113018.jpg" width="150"/>
+  <img src="images/Screenshot_20251218-112947.jpg" width="180"/>
+  <img src="images/Screenshot_20251218-112955.jpg" width="180"/>
+  <img src="images/Screenshot_20251218-113001.jpg" width="180"/>
+  <img src="images/Screenshot_20251218-113011.jpg" width="180"/>
+  <img src="images/Screenshot_20251218-113018.jpg" width="180"/>
 </p>
 
 🎥 App Preview

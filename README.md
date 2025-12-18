@@ -1,8 +1,8 @@
-Currency Converter App
+# Currency Converter App
 
 The Currency Converter app is built using Flutter and Dart, providing users with a fast and convenient way to convert between different currencies. The app uses Bloc for state management, ensuring a smooth and responsive user experience.
 
-📌 Features:
+# 📌 Features:
 
 Live Currency Conversion: Convert currencies in real-time based on user selection.
 
@@ -12,7 +12,7 @@ Clean UI: Simple and intuitive interface for easy navigation.
 
 Bloc State Management: Efficiently manage app state and improve performance.
 
-🛠 Technologies:
+# 🛠 Technologies:
 
 Flutter & Dart: Core technologies for app development.
 
@@ -30,9 +30,9 @@ Dio: Fetch currency rates from APIs.
   <img src="images/Screenshot_20251218-113018.jpg" width="180"/>
 </p>
 
-🎥 App Preview
+# 🎥 App Preview
 
-<img src="images/currency.gif" width="200" alt="Demo GIF" />
+<img src="images/currency_videoo.gif" width="200" alt="Demo GIF" />
 
 
 # 🚀 Running the Project
